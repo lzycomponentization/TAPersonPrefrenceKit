@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TAPersonPrefrenceKit_Example' do
+  pod 'TAPersonPrefrenceKit', :path => '../'
+
+  target 'TAPersonPrefrenceKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
