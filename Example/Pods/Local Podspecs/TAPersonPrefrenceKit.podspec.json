@@ -1,0 +1,22 @@
+{
+  "name": "TAPersonPrefrenceKit",
+  "version": "0.1.0",
+  "summary": "A short description of TAPersonPrefrenceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lzypt/TAPersonPrefrenceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lzypt": "3332634260@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lzypt/TAPersonPrefrenceKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TAPersonPrefrenceKit/Classes/**/*"
+}

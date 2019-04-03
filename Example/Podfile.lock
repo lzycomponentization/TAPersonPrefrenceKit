@@ -1,0 +1,16 @@
+PODS:
+  - TAPersonPrefrenceKit (0.1.0)
+
+DEPENDENCIES:
+  - TAPersonPrefrenceKit (from `../`)
+
+EXTERNAL SOURCES:
+  TAPersonPrefrenceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TAPersonPrefrenceKit: c815e0c66f888de86812bdd9e306c213c0c512ba
+
+PODFILE CHECKSUM: 4708d172532fe8e3a0d22976fc8958459a134e01
+
+COCOAPODS: 1.5.3
